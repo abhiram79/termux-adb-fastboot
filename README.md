@@ -8,7 +8,7 @@
 2. From Termux command line:
 
 ```bash
-
+curl -s https://raw.githubusercontent.com/abhiram79/termux-adb-fastboot/main/install | bash
 ```
 
 
