@@ -1,14 +1,19 @@
-### Run adb and fastboot in Termux without root permissions!
+### adb and fastboot in Termux
 
-**official** [Repo](https://github.com/nohajc/termux-adb) **by:** [nohajc](https://github.com/nohajc)
 
-<sub>**changes**: Include improving install and creating symbolic links: termux-adb ➜ adb, termux-fastboot ➜ fastboot</sub>
+## Installation
 
-### Installation
-
-1. Install [Termux & Termux-api](http://offici5l.github.io/d-termux.html)
+1. Install termux & termux-api
 
 2. From Termux command line:
+
 ```bash
-curl -s https://raw.githubusercontent.com/offici5l/termux-adb-fastboot/main/install | bash
+
 ```
+
+
+## Credits
+
+[nohajc](https://github.com/nohajc)
+
+[offici5l](https://github.com/offici5l)
